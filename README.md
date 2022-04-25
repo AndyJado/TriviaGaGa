@@ -1,6 +1,10 @@
 # TriviaGaGa
 Creation of TriviGaGa (吹微GaGa)
 
+## Preview ( well not that illustrative within one device..)
+https://user-images.githubusercontent.com/101876416/165056419-2eec5348-fb93-46a8-b604-c892976508de.mp4
+
+
 TestFlight Link for now:
 https://testflight.apple.com/join/Qr43JTjZ
 
