@@ -7,7 +7,7 @@ Creation of TriviGaGa (吹微GaGa)
 
 Developer collects no data from App.
 
-* All the data I could get is shown below, I get to see your channel string, download the picture you captured in app, and delete the whole record ( but only before your LOVEDONE swipe it off). But like the policy said, I collect none of them. *
+*All the data I could get is shown below, I get to see your channel string, download the picture you captured in app, and delete the whole record ( but only before your LOVEDONE swipe it off). But like the policy said, I collect none of them.*
 ![image](https://user-images.githubusercontent.com/101876416/165040162-ddc8c6a9-0231-44aa-8283-82f5775ed98e.png)
 
 I plan to clean the container (delete all records) every week.
