@@ -8,20 +8,17 @@ Developer collects no data from App.
 
 ## Code & Asset reference
 
--
-The origin code for camera part was forked and modified from below, which is under MIT License.
+- The origin code for camera part was forked and modified from below, which is under MIT License.
 https://github.com/rorodriguez116/SwiftCamera
 
--
-The teacher who get me through SwiftUI and MVVM and all that is @Nick Sarno:
+- The teacher who get me through SwiftUI and MVVM and all that is @Nick Sarno:
 https://github.com/SwiftfulThinking
 
 Thank you captain Nick.
 
--
-The image for the icon comes below, which is under Creative Commons 4.0 BY-NC License:
+- The image for the icon comes below, which is under Creative Commons 4.0 BY-NC License:
 https://www.pngall.com/dandelion-png/download/61121
 
-*The license says non primarily commercial intended use, well, the best metaphor I found for my app was "blowing a dandelion", I finished my app, I used my app, the metaphor came to me, i started google 'dandelion' and I found this picture which just draw my mind, namely, even if I draw something myself, the idea was stolen from this picture, so, would it be a fair use if I give up all the direct profit made by the icon? ( like a printed T-shirt or sth) 
+*The license says non primarily commercial intended use, well, the best metaphor I found for my app was "blowing a dandelion", I finished my app, I used my app, the metaphor came to me, i started google 'dandelion' and I found this picture which just draw my mind, namely, even if I draw something myself, the idea was stolen from this picture, so, would it be a fair use if I give up all the direct profit made by the icon? ( like a printed T-shirt or sth)*
 
 
