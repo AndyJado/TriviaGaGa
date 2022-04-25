@@ -1,6 +1,9 @@
 # TriviaGaGa
 Creation of TriviGaGa (吹微GaGa)
 
+TestFlight Link for now:
+https://testflight.apple.com/join/Qr43JTjZ
+
 ## 隐私政策 (Privacy Policy)
 
 开发者不会从此 App 中收集任何数据。
