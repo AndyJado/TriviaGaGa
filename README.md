@@ -10,14 +10,19 @@ https://testflight.apple.com/join/Qr43JTjZ
 
 ## 隐私政策 (Privacy Policy)
 
-开发者不会从此 App 中收集任何数据。
+开发者不会从此 App 中收集,公开,或向任何第三方分享任何数据。
 
-Developer collects no data from App.
+Developer won't collects, publish, or share with any third party any data from this App.
 
-*All the data I could get is shown below, I get to see your channel string, download the picture you captured in app, and delete the whole record ( but only before your LOVEDONE swipe it off). But like the policy said, I collect none of them.*
+*All the data I (as one and only developer and maintainer) have access to is shown below:*
+- I get to see your channel string.
+- I'm able to see the picture you send to the channel if I intentionnaly hit download which I won't do in the production environment.
+- I can delete the whole record which is equivalent the in-app behavior where you swipe a card off.
+- I will delete all records or none at my will in purpose of cleanning the database.
+- **It's user's responsibility to seperate his/her channel with others.**
+
+
 ![image](https://user-images.githubusercontent.com/101876416/165040162-ddc8c6a9-0231-44aa-8283-82f5775ed98e.png)
-
-I plan to clean the container (delete all records) every week.
 
 ## Code & Asset reference
 
