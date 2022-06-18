@@ -1,12 +1,20 @@
-# TriviaGaGa
-Creation of TriviGaGa (吹微GaGa)
+# TriviGaGa(吹微GaGa)
+A photo streaming channel. 
 
-## Preview ( well not that illustrative within one device..)
-https://user-images.githubusercontent.com/101876416/165056419-2eec5348-fb93-46a8-b604-c892976508de.mp4
+## Me and Ma use it everyday.
+https://user-images.githubusercontent.com/101876416/174429856-680dc8c9-d579-41e2-bb2a-f58580df0dba.mov
 
+- once set channel
+- hit button to push
+- swipe card to pull
 
-TestFlight Link for now:
+**⬇️Free DownLoad Here⬇️(这里免费下载!)**:
+
 https://testflight.apple.com/join/Qr43JTjZ
+
+*I'll keep the free version up to date as soon as this app exists.*
+
+
 
 ## 隐私政策 (Privacy Policy)
 
