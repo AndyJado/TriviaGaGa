@@ -1,5 +1,10 @@
 # TriviGaGa(吹微GaGa)
-A photo streaming channel. 
+An async photo streaming channel with your loved one.
+
+[![ga_ga_1200x628](https://user-images.githubusercontent.com/101876416/175939191-30e10f84-86a3-4d61-960d-9cdfc243c834.png)](https://apple.co/3byEHUQ)
+
+
+
 
 ## Me and Ma use it everyday.
 https://user-images.githubusercontent.com/101876416/174429856-680dc8c9-d579-41e2-bb2a-f58580df0dba.mov
